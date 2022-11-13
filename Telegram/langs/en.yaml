@@ -20,11 +20,11 @@ pm_start_text: |
    ‣ Note keeping system
    ‣ Filters keeping system
    ‣ Approvals and much more.
-   ‣ Managed By @h_mou_de.
+   ‣ Managed By @Linux121.
    ➖➖➖➖➖➖➖➖➖➖➖➖➖
    ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs ××
    
-grp_start_text: "Hi,Anie Is Here."
+grp_start_text: "Hi,Linux bot Is Here."
 
 pm_help_text: |
     • /start: Starts me, can be used to check I'm alive or not.
@@ -56,7 +56,7 @@ afk_help: |
 
 anilist_help: |
     *AniList*
-    Get information about anime, manga or characters with the help of this module! All data is fetched from [AniList](anilist.co).
+    Get information about Linux, manga or characters with the help of this module! All data is fetched from [aniList](anilist.co).
     *Available commands:*
      - /anime <anime>: returns information about the anime.
      - /character <character>: returns information about the character.
@@ -204,7 +204,7 @@ FED_USER_HELP: |
     • `/frules`*:* See Federation regulations
 
 formt_help_bse: |
-    Anie supports a large number of formatting options to make your messages more expressive. Take a look!
+    Linux supports a large number of formatting options to make your messages more expressive. Take a look!
 
 md_help: |
     <b>Markdown Formatting</b>
